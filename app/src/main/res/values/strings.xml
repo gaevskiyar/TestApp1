@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp 1</string>
+    <string name="et_hint">Введите текст</string>
+    <string name="bt_text">Показать текст</string>
+    <string name="bt_info_text">Кнопка</string>
+    <string name="tv_info_hint">Здесь будет текст</string>
+</resources>
